@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.first{
+  background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  padding: 13rem 0;
+  background-attachment: fixed;
+
+}
+.first h1{
+    font-size: 88px;
+    color: #212529;
+}
+.first h3{
+    font-size: 28px;
+    color: #212529;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+
+.first a{
+background-color: #1d809f;
+color: #fff;
+padding: 20px 40px;
+font-weight: bold;
+font-size: 1rem;
+border-radius: 5px;
+transition: .6s;
+
+}
+.first a:hover{
+    background-color: #0e4252;
+    padding: 20px 60px;
+}
+
+.second{
+    text-align: center;
+    padding: 6rem 0;
+}
+
+.second h2{
+    font-size: 32px;
+    color: #212529;
+
+}
+
+.second p{
+    font-size: 20px;
+    color: #212529;
+    margin-bottom: 40px;
+}
+
+.second p a{
+    text-decoration: underline;
+    color: #1d809f;
+}
+
+.second .offer{
+    background-color: #212529;
+    color: #fff;
+    padding: 20px 40px;
+    font-weight: bold;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: .6s;
+}
+
+.third{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 13rem 0;
+    background-attachment: fixed;
+}
+
+.third h1{
+    font-size: 56px;
+    color: #212529;
+    margin-bottom:  40px;
+}
+
+.third a{
+    background-color: #1d809f;
+    color: #fff;
+    padding: 20px 40px;
+    font-weight: bold;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: .6s;
+    
+    }
+    .third a:hover{
+        background-color: #0e4252;
+        padding: 20px 60px;
+    }
+
+    .fourth{
+        text-align: center;
+        background-color: rgb(29, 128, 159);
+        padding: 8rem 0;
+        background-attachment: fixed;
+    }
+
+    .fourth h2{
+        color: white;
+        font-size: 32px;
+        margin-bottom: 40px;
+    }
+
+    .fourth .click{
+        color: black;
+        background-color: #f8f9fa;
+        margin: 0 24px 0 0;
+        padding: 20px 40px;
+    }
+
+    .fourth a{
+        color: white;
+        background-color: #212529;
+        margin: 0 24px 0 0;
+        padding: 20px 40px;
+    }
+
+    .map{
+        height: 30rem;
+        
+        
+    }
+
+    .copyright{
+        text-align: center;
+        color: #6c757d ;
+        margin-top: 40px;
+        height: 5rem;
+
+    }
